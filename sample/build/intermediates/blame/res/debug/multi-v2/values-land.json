@@ -4,7 +4,7 @@
             "outputFile": "/Users/daniel/HBProjects/hb-apv/sample/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "/Users/daniel/.gradle/caches/transforms-2/files-2.1/19589bbd4377104e979e338cdda1fc5e/mediarouter-1.2.0/res/values-land/values-land.xml",
+                    "source": "/Users/daniel/.gradle/caches/transforms-2/files-2.1/bdfb47c784950a65ec51aaab16e0bc99/mediarouter-1.1.0/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/daniel/.gradle/caches/transforms-2/files-2.1/b6f827b772568ba437ded6ac55e284be/appcompat-1.1.0/res/values-land/values-land.xml",
+                    "source": "/Users/daniel/.gradle/caches/transforms-2/files-2.1/afe36cd942be515f8b65411666106a48/appcompat-1.0.2/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",

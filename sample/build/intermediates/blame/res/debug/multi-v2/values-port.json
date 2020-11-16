@@ -4,7 +4,7 @@
             "outputFile": "/Users/daniel/HBProjects/hb-apv/sample/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
             "map": [
                 {
-                    "source": "/Users/daniel/.gradle/caches/transforms-2/files-2.1/b6f827b772568ba437ded6ac55e284be/appcompat-1.1.0/res/values-port/values-port.xml",
+                    "source": "/Users/daniel/.gradle/caches/transforms-2/files-2.1/afe36cd942be515f8b65411666106a48/appcompat-1.0.2/res/values-port/values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

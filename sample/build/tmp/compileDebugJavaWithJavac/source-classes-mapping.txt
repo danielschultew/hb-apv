@@ -1,0 +1,4 @@
+com/github/danielschultew/sample/PDFViewActivity.java
+ com.github.danielschultew.sample.PDFViewActivity
+com/github/danielschultew/sample/BuildConfig.java
+ com.github.danielschultew.sample.BuildConfig

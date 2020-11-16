@@ -17,7 +17,7 @@
 13    <application
 13-->/Users/daniel/HBProjects/hb-apv/sample/src/main/AndroidManifest.xml:6:5-18:19
 14        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-14-->[androidx.core:core:1.3.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/543b89191a4fd41dc252443da2333b63/core-1.3.0/AndroidManifest.xml:24:18-86
+14-->[androidx.core:core:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/32371d0f0864ef2f3f421d43e06601cf/core-1.1.0/AndroidManifest.xml:24:18-86
 15        android:debuggable="true"
 16        android:icon="@drawable/ic_launcher"
 16-->/Users/daniel/HBProjects/hb-apv/sample/src/main/AndroidManifest.xml:7:9-45
