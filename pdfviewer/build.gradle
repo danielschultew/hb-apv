@@ -1,23 +1,23 @@
 apply plugin: 'com.android.library'
 
 ext {
-    bintrayRepo = 'apv'
-    bintrayName = 'com.github.arnaudelub.apv'
+    bintrayRepo = 'hb-apv'
+    bintrayName = 'com.github.danielschultew.hb-apv'
 
-    publishedGroupId = 'com.github.arnaudelub.apv'
-    libraryName = 'apv'
-    artifact = 'apv'
+    publishedGroupId = 'com.github.danielschultew'
+    libraryName = 'hb-apv'
+    artifact = 'hb-apv'
 
     libraryDescription = 'Android view for displaying PDFs rendered with PdfiumAndroid'
 
-    siteUrl = 'https://github.com/arnaudelub/apv'
-    gitUrl = 'https://github.com/arnaudelub/apv.git'
+    siteUrl = 'https://github.com/danielschultew/apv'
+    gitUrl = 'https://github.com/danielschultew/apv.git'
 
-    libraryVersion = '1.5.1'
+    libraryVersion = '1.1.0'
 
-    developerId = 'arnudelub'
-    developerName = 'Arnaud Delubac'
-    developerEmail = 'arnaudelub@gmail.com'
+    developerId = 'danielschultew'
+    developerName = 'Daniel Schultew'
+    developerEmail = 'schulte.minus.w@gmail.com'
 
     licenseName = 'The Apache Software License, Version 2.0'
     licenseUrl = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
@@ -31,16 +31,15 @@ android {
         minSdkVersion 14
         targetSdkVersion 28
         versionCode 1
-        versionName "1.5.1"
+        versionName "1.1.0"
     }
-
 }
 
 dependencies {
     implementation 'com.android.support:support-compat:28.0.0'
     api 'com.github.barteksc:pdfium-android:1.9.0'
     // Use JUnit test framework
-    testImplementation 'junit:junit:4.12'
+    testImplementation 'junit:junit:4.13.1'
 }
 
 repositories {
@@ -48,6 +47,6 @@ repositories {
 }
 
 apply from: 'bintray.gradle'
-if(project.rootProject.file('local.properties').exists()) {
+if (project.rootProject.file('local.properties').exists()) {
     apply from: 'https://raw.githubusercontent.com/nuuneoi/JCenter/master/installv1.gradle'
 }

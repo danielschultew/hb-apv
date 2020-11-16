@@ -1,20 +1,15 @@
 
 # Android Pdf Viewer
-This is a modified version of android-pdf-viewer from barteksc, as it's not maintained anymore
+This is a modified version of android-pdf-viewer from arnaudelub, who created a modified version of android-pdf-viewer from barteksc, as it's not maintained anymore
 and no pull request are being revised since 2018, i creating this repo.
-The option dualmode has been add to be able to put 2 pdf pages on the same screen to read it like a book
+
+This version contains the dual-page-mode added by arnaudelub and some bugfixes and little improvements.
 
 ## Installation
 
 Add to _build.gradle_:
 
-`implementation 'com.github.barteksc:android-pdf-viewer:3.2.0-beta.1'`
-
-or if you want to use more stable version:
- 
-`implementation 'com.github.barteksc:android-pdf-viewer:2.8.2'`
-
-Library is available in jcenter repository, probably it'll be in Maven Central soon.
+`implementation 'com.github.danielschultew:hb-apv:1.1.0'`
 
 ## ProGuard
 If you are using ProGuard, add following rule to proguard config file:
@@ -26,7 +21,7 @@ If you are using ProGuard, add following rule to proguard config file:
 ## Include PDFView in your layout
 
 ``` xml
-<com.github.barteksc.pdfviewer.PDFView
+<com.github.danielschultew.pdfviewer.PDFView
         android:id="@+id/pdfView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>

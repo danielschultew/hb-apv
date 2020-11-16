@@ -35,7 +35,9 @@ dependencies {
     implementation project(':pdfviewer')
     implementation 'com.android.support:appcompat-v7:28.0.0'
 
-    implementation 'org.androidannotations:androidannotations-api:4.6.0'
-    annotationProcessor "org.androidannotations:androidannotations:4.6.0"
+    implementation 'org.androidannotations:androidannotations-api:4.7.0'
+    annotationProcessor 'org.androidannotations:androidannotations:4.7.0'
+
+    //do not update - needs minSdkVersion 26 to work
     implementation 'androidx.mediarouter:mediarouter:1.1.0'
 }

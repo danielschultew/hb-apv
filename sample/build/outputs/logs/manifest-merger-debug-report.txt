@@ -1,166 +1,179 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/badtaste/Repository/Java/apv/sample/src/main/AndroidManifest.xml:1:1-20:12
-INJECTED from /home/badtaste/Repository/Java/apv/sample/src/main/AndroidManifest.xml:1:1-20:12
-INJECTED from /home/badtaste/Repository/Java/apv/sample/src/main/AndroidManifest.xml:1:1-20:12
-MERGED from [:pdfviewer] /home/badtaste/Repository/Java/apv/pdfviewer/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.mediarouter:mediarouter:1.1.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/799ba6a831c318c6e223719052892b37/mediarouter-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat:1.0.2] /home/badtaste/.gradle/caches/transforms-2/files-2.1/0886d292032bf158cf46e2bdc28fd300/appcompat-1.0.2/AndroidManifest.xml:17:1-22:12
-MERGED from [com.github.barteksc:pdfium-android:1.9.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/10b03243d79346f329d5267ad3beb725/jetified-pdfium-android-1.9.0/AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/78342115bf4afc19c4bab92e222ba05f/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.media:media:1.1.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/f8bdbf8b34af9f0d749f8df487bfe4e6/media-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.palette:palette:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/d8167ed4e11d5a92b9a459aa81a3ee4b/palette-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/cbb6697a621b401e801323fa15002680/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.fragment:fragment:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/72fc66aa602aebc766cce9256a0f5f8c/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/21649d281ff00fc418e3726ded2e8f48/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/5475f171df3f455a83be28ee8d03c28d/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/5592ad011b11d0bcae31a3ed88742ae1/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/badtaste/.gradle/caches/transforms-2/files-2.1/c904f85f5d7f7e54551fa60f04c2bbb7/vectordrawable-1.0.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/a98a49bfce1b0ab408a4f9b953748bda/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/5e3b954c479054c1a4361bcd4f9b670a/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/7c404e36eeb10367b42398dde80b3d15/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/b733c4e0647699b70492eba4d7629857/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/f1ec25d200f50d714c8695007cf98320/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/5f656264d37f742328e13a062d8ee194/customview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/fb9d2b2d82101274003632fc30129c0b/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/1c98b69735188ba67cf61872701ab1ff/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.1.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/ed8a92f2d2f336db88955cb17589d154/core-1.1.0/AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/7f625ea727b14535eb6b428ea5ee84e0/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/8e08e704afcf9cd0e6741af97bab5862/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/2e3e3852446d8f6d07638b72dbd6bfe2/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/7a2b5f29dcf89c660b3820f75d9b2116/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/af21b33f0335e8c65bdbe277db47a0d8/print-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/4519bbdbcfbc568aa1fbe1a6943fc283/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/33ede58bbf387300d53329710e6b13d5/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/327a2517d9e3a697de5ee2497523d530/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/7cd9c04ae0ae4012555a346c5bcd4ada/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/dc0499e644ff872b693513c67d2390e1/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/b5c7cd3fec387761f871edcd44189fa0/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/badtaste/Repository/Java/apv/sample/src/main/AndroidManifest.xml:1:1-20:12
-INJECTED from /home/badtaste/Repository/Java/apv/sample/src/main/AndroidManifest.xml:1:1-20:12
+ADDED from /Users/daniel/HBProjects/hb-apv/sample/src/main/AndroidManifest.xml:1:1-20:12
+INJECTED from /Users/daniel/HBProjects/hb-apv/sample/src/main/AndroidManifest.xml:1:1-20:12
+INJECTED from /Users/daniel/HBProjects/hb-apv/sample/src/main/AndroidManifest.xml:1:1-20:12
+INJECTED from /Users/daniel/HBProjects/hb-apv/sample/src/main/AndroidManifest.xml:1:1-20:12
+MERGED from [:pdfviewer] /Users/daniel/HBProjects/hb-apv/pdfviewer/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.mediarouter:mediarouter:1.2.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/19589bbd4377104e979e338cdda1fc5e/mediarouter-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/b6f827b772568ba437ded6ac55e284be/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.barteksc:pdfium-android:1.9.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/e2bdb15da62200f1ff878db790f89844/jetified-pdfium-android-1.9.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.palette:palette:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/46b36058e1b61188482a3e65bacb6ba3/palette-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/d482120b328d0f8328c6e5540b0e06b4/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/32f6b8a6ceffba81574da9ecd8f353ac/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.2.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/dc3a542ceac70448450df06be94a1038/media-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/29d67faca98872a3ab121346bd5eeb48/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/5fd9b46af6a3a8e9f2d95c72834d8e99/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/8f48b306c8fd4403d9c46fb3cb13a30e/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/ea711a27025ab6c436980d4bf3b23f80/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/0b169ad92b487df0d9f5948ae6d9b87a/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/3442859bf8c1c86d3b90ecac4c515887/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/1644a57177f5080bd0ebe57c93f8bb05/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/0883ca2500de99b83d0d8c6d8f7f0b0a/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/6abdff1f76489948f3727ae07c1a3e32/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/a6f5d00bc1c7748df6812dac27244aed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/1c4285045eeb6748dbe1cff548368457/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/8ddfb0528cbff2482bde6e062379ee4a/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/5407ac41ce5829d9ffd3594dabb33a84/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/a7f60305d24b33454071a8701b5598d3/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/e62377e07f41ecf590f687abbb6d4708/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/543b89191a4fd41dc252443da2333b63/core-1.3.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/b230448657186719c82bc0a69c35f37e/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/55f03abc6ada577a7987d00706914917/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/1f1b5da9bc13c1224c8dcc116f0d3dd4/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/47256c47a81fc327161e46217d20a210/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/8f2549244647f2c1b1af5d64b1b84eb6/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/fbab2ac4cb3ec9ad92dec08c3f011627/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/9764cfb7045f784c7291e3b58f0ac6ce/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/6bf24c73f85fb3f3d13d89537bf3fca7/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/b52b6427018570ad73e37e89df418c6a/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/2abe4c61a93c4c915cb2e47fd5a035b5/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/51c01ae031b1a3283bbf26101894beba/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/ab0a54e450b5eaaf331e84860dc17075/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/daniel/HBProjects/hb-apv/sample/src/main/AndroidManifest.xml:1:1-20:12
+INJECTED from /Users/daniel/HBProjects/hb-apv/sample/src/main/AndroidManifest.xml:1:1-20:12
+INJECTED from /Users/daniel/HBProjects/hb-apv/sample/src/main/AndroidManifest.xml:1:1-20:12
 	package
-		ADDED from /home/badtaste/Repository/Java/apv/sample/src/main/AndroidManifest.xml:2:2-40
+		ADDED from /Users/daniel/HBProjects/hb-apv/sample/src/main/AndroidManifest.xml:2:5-47
+		INJECTED from /Users/daniel/HBProjects/hb-apv/sample/src/main/AndroidManifest.xml
+		INJECTED from /Users/daniel/HBProjects/hb-apv/sample/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/badtaste/Repository/Java/apv/sample/src/main/AndroidManifest.xml
-		ADDED from /home/badtaste/Repository/Java/apv/sample/src/main/AndroidManifest.xml:1:1-20:12
-		INJECTED from /home/badtaste/Repository/Java/apv/sample/src/main/AndroidManifest.xml
+		INJECTED from /Users/daniel/HBProjects/hb-apv/sample/src/main/AndroidManifest.xml
+		ADDED from /Users/daniel/HBProjects/hb-apv/sample/src/main/AndroidManifest.xml:1:1-20:12
+		INJECTED from /Users/daniel/HBProjects/hb-apv/sample/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/badtaste/Repository/Java/apv/sample/src/main/AndroidManifest.xml
-		ADDED from /home/badtaste/Repository/Java/apv/sample/src/main/AndroidManifest.xml:1:1-20:12
-		INJECTED from /home/badtaste/Repository/Java/apv/sample/src/main/AndroidManifest.xml
+		INJECTED from /Users/daniel/HBProjects/hb-apv/sample/src/main/AndroidManifest.xml
+		ADDED from /Users/daniel/HBProjects/hb-apv/sample/src/main/AndroidManifest.xml:1:1-20:12
+		INJECTED from /Users/daniel/HBProjects/hb-apv/sample/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/badtaste/Repository/Java/apv/sample/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/daniel/HBProjects/hb-apv/sample/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from /home/badtaste/Repository/Java/apv/sample/src/main/AndroidManifest.xml:4:5-80
+ADDED from /Users/daniel/HBProjects/hb-apv/sample/src/main/AndroidManifest.xml:4:5-80
 	android:name
-		ADDED from /home/badtaste/Repository/Java/apv/sample/src/main/AndroidManifest.xml:4:22-77
+		ADDED from /Users/daniel/HBProjects/hb-apv/sample/src/main/AndroidManifest.xml:4:22-77
 application
-ADDED from /home/badtaste/Repository/Java/apv/sample/src/main/AndroidManifest.xml:6:2-18:16
-MERGED from [androidx.core:core:1.1.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/ed8a92f2d2f336db88955cb17589d154/core-1.1.0/AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.1.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/ed8a92f2d2f336db88955cb17589d154/core-1.1.0/AndroidManifest.xml:24:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/7f625ea727b14535eb6b428ea5ee84e0/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/7f625ea727b14535eb6b428ea5ee84e0/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+ADDED from /Users/daniel/HBProjects/hb-apv/sample/src/main/AndroidManifest.xml:6:5-18:19
+MERGED from [androidx.core:core:1.3.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/543b89191a4fd41dc252443da2333b63/core-1.3.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/543b89191a4fd41dc252443da2333b63/core-1.3.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/55f03abc6ada577a7987d00706914917/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/55f03abc6ada577a7987d00706914917/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.1.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/ed8a92f2d2f336db88955cb17589d154/core-1.1.0/AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.3.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/543b89191a4fd41dc252443da2333b63/core-1.3.0/AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from /home/badtaste/Repository/Java/apv/sample/src/main/AndroidManifest.xml:8:3-35
+		ADDED from /Users/daniel/HBProjects/hb-apv/sample/src/main/AndroidManifest.xml:8:9-41
 	android:icon
-		ADDED from /home/badtaste/Repository/Java/apv/sample/src/main/AndroidManifest.xml:7:3-39
+		ADDED from /Users/daniel/HBProjects/hb-apv/sample/src/main/AndroidManifest.xml:7:9-45
 	android:theme
-		ADDED from /home/badtaste/Repository/Java/apv/sample/src/main/AndroidManifest.xml:9:3-47
-activity#com.github.arnaudelub.sample.PDFViewActivity_
-ADDED from /home/badtaste/Repository/Java/apv/sample/src/main/AndroidManifest.xml:10:3-17:14
+		ADDED from /Users/daniel/HBProjects/hb-apv/sample/src/main/AndroidManifest.xml:9:9-53
+activity#com.github.danielschultew.sample.PDFViewActivity_
+ADDED from /Users/daniel/HBProjects/hb-apv/sample/src/main/AndroidManifest.xml:10:9-17:20
 	android:label
-		ADDED from /home/badtaste/Repository/Java/apv/sample/src/main/AndroidManifest.xml:12:4-36
+		ADDED from /Users/daniel/HBProjects/hb-apv/sample/src/main/AndroidManifest.xml:12:13-45
 	android:name
-		ADDED from /home/badtaste/Repository/Java/apv/sample/src/main/AndroidManifest.xml:11:4-35
+		ADDED from /Users/daniel/HBProjects/hb-apv/sample/src/main/AndroidManifest.xml:11:13-77
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/badtaste/Repository/Java/apv/sample/src/main/AndroidManifest.xml:13:4-16:20
+ADDED from /Users/daniel/HBProjects/hb-apv/sample/src/main/AndroidManifest.xml:13:13-16:29
 action#android.intent.action.MAIN
-ADDED from /home/badtaste/Repository/Java/apv/sample/src/main/AndroidManifest.xml:14:5-57
+ADDED from /Users/daniel/HBProjects/hb-apv/sample/src/main/AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from /home/badtaste/Repository/Java/apv/sample/src/main/AndroidManifest.xml:14:13-54
+		ADDED from /Users/daniel/HBProjects/hb-apv/sample/src/main/AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/badtaste/Repository/Java/apv/sample/src/main/AndroidManifest.xml:15:5-65
+ADDED from /Users/daniel/HBProjects/hb-apv/sample/src/main/AndroidManifest.xml:15:17-77
 	android:name
-		ADDED from /home/badtaste/Repository/Java/apv/sample/src/main/AndroidManifest.xml:15:15-62
+		ADDED from /Users/daniel/HBProjects/hb-apv/sample/src/main/AndroidManifest.xml:15:27-74
 uses-sdk
-INJECTED from /home/badtaste/Repository/Java/apv/sample/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/badtaste/Repository/Java/apv/sample/src/main/AndroidManifest.xml
-INJECTED from /home/badtaste/Repository/Java/apv/sample/src/main/AndroidManifest.xml
-MERGED from [:pdfviewer] /home/badtaste/Repository/Java/apv/pdfviewer/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:pdfviewer] /home/badtaste/Repository/Java/apv/pdfviewer/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [androidx.mediarouter:mediarouter:1.1.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/799ba6a831c318c6e223719052892b37/mediarouter-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.mediarouter:mediarouter:1.1.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/799ba6a831c318c6e223719052892b37/mediarouter-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat:1.0.2] /home/badtaste/.gradle/caches/transforms-2/files-2.1/0886d292032bf158cf46e2bdc28fd300/appcompat-1.0.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.0.2] /home/badtaste/.gradle/caches/transforms-2/files-2.1/0886d292032bf158cf46e2bdc28fd300/appcompat-1.0.2/AndroidManifest.xml:20:5-44
-MERGED from [com.github.barteksc:pdfium-android:1.9.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/10b03243d79346f329d5267ad3beb725/jetified-pdfium-android-1.9.0/AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.barteksc:pdfium-android:1.9.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/10b03243d79346f329d5267ad3beb725/jetified-pdfium-android-1.9.0/AndroidManifest.xml:7:5-9:41
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/78342115bf4afc19c4bab92e222ba05f/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/78342115bf4afc19c4bab92e222ba05f/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.1.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/f8bdbf8b34af9f0d749f8df487bfe4e6/media-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.media:media:1.1.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/f8bdbf8b34af9f0d749f8df487bfe4e6/media-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.palette:palette:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/d8167ed4e11d5a92b9a459aa81a3ee4b/palette-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.palette:palette:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/d8167ed4e11d5a92b9a459aa81a3ee4b/palette-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/cbb6697a621b401e801323fa15002680/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/cbb6697a621b401e801323fa15002680/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/72fc66aa602aebc766cce9256a0f5f8c/fragment-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/72fc66aa602aebc766cce9256a0f5f8c/fragment-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/21649d281ff00fc418e3726ded2e8f48/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/21649d281ff00fc418e3726ded2e8f48/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/5475f171df3f455a83be28ee8d03c28d/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/5475f171df3f455a83be28ee8d03c28d/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/5592ad011b11d0bcae31a3ed88742ae1/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/5592ad011b11d0bcae31a3ed88742ae1/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/badtaste/.gradle/caches/transforms-2/files-2.1/c904f85f5d7f7e54551fa60f04c2bbb7/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/badtaste/.gradle/caches/transforms-2/files-2.1/c904f85f5d7f7e54551fa60f04c2bbb7/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/a98a49bfce1b0ab408a4f9b953748bda/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/a98a49bfce1b0ab408a4f9b953748bda/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/5e3b954c479054c1a4361bcd4f9b670a/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/5e3b954c479054c1a4361bcd4f9b670a/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/7c404e36eeb10367b42398dde80b3d15/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/7c404e36eeb10367b42398dde80b3d15/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/b733c4e0647699b70492eba4d7629857/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/b733c4e0647699b70492eba4d7629857/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/f1ec25d200f50d714c8695007cf98320/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/f1ec25d200f50d714c8695007cf98320/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/5f656264d37f742328e13a062d8ee194/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/5f656264d37f742328e13a062d8ee194/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/fb9d2b2d82101274003632fc30129c0b/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/fb9d2b2d82101274003632fc30129c0b/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/1c98b69735188ba67cf61872701ab1ff/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/1c98b69735188ba67cf61872701ab1ff/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.1.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/ed8a92f2d2f336db88955cb17589d154/core-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.1.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/ed8a92f2d2f336db88955cb17589d154/core-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/7f625ea727b14535eb6b428ea5ee84e0/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/7f625ea727b14535eb6b428ea5ee84e0/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/8e08e704afcf9cd0e6741af97bab5862/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/8e08e704afcf9cd0e6741af97bab5862/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/2e3e3852446d8f6d07638b72dbd6bfe2/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/2e3e3852446d8f6d07638b72dbd6bfe2/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/7a2b5f29dcf89c660b3820f75d9b2116/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/7a2b5f29dcf89c660b3820f75d9b2116/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/af21b33f0335e8c65bdbe277db47a0d8/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/af21b33f0335e8c65bdbe277db47a0d8/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/4519bbdbcfbc568aa1fbe1a6943fc283/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/4519bbdbcfbc568aa1fbe1a6943fc283/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/33ede58bbf387300d53329710e6b13d5/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/33ede58bbf387300d53329710e6b13d5/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/327a2517d9e3a697de5ee2497523d530/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/327a2517d9e3a697de5ee2497523d530/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/7cd9c04ae0ae4012555a346c5bcd4ada/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/7cd9c04ae0ae4012555a346c5bcd4ada/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/dc0499e644ff872b693513c67d2390e1/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/dc0499e644ff872b693513c67d2390e1/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/b5c7cd3fec387761f871edcd44189fa0/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/badtaste/.gradle/caches/transforms-2/files-2.1/b5c7cd3fec387761f871edcd44189fa0/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
-INJECTED from /home/badtaste/Repository/Java/apv/sample/src/main/AndroidManifest.xml
-INJECTED from /home/badtaste/Repository/Java/apv/sample/src/main/AndroidManifest.xml
+INJECTED from /Users/daniel/HBProjects/hb-apv/sample/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/daniel/HBProjects/hb-apv/sample/src/main/AndroidManifest.xml
+INJECTED from /Users/daniel/HBProjects/hb-apv/sample/src/main/AndroidManifest.xml
+MERGED from [:pdfviewer] /Users/daniel/HBProjects/hb-apv/pdfviewer/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:pdfviewer] /Users/daniel/HBProjects/hb-apv/pdfviewer/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.mediarouter:mediarouter:1.2.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/19589bbd4377104e979e338cdda1fc5e/mediarouter-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.mediarouter:mediarouter:1.2.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/19589bbd4377104e979e338cdda1fc5e/mediarouter-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/b6f827b772568ba437ded6ac55e284be/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/b6f827b772568ba437ded6ac55e284be/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.barteksc:pdfium-android:1.9.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/e2bdb15da62200f1ff878db790f89844/jetified-pdfium-android-1.9.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:pdfium-android:1.9.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/e2bdb15da62200f1ff878db790f89844/jetified-pdfium-android-1.9.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.palette:palette:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/46b36058e1b61188482a3e65bacb6ba3/palette-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/46b36058e1b61188482a3e65bacb6ba3/palette-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/d482120b328d0f8328c6e5540b0e06b4/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/d482120b328d0f8328c6e5540b0e06b4/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/32f6b8a6ceffba81574da9ecd8f353ac/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/32f6b8a6ceffba81574da9ecd8f353ac/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.2.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/dc3a542ceac70448450df06be94a1038/media-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.2.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/dc3a542ceac70448450df06be94a1038/media-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/29d67faca98872a3ab121346bd5eeb48/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/29d67faca98872a3ab121346bd5eeb48/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/5fd9b46af6a3a8e9f2d95c72834d8e99/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/5fd9b46af6a3a8e9f2d95c72834d8e99/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/8f48b306c8fd4403d9c46fb3cb13a30e/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/8f48b306c8fd4403d9c46fb3cb13a30e/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/ea711a27025ab6c436980d4bf3b23f80/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/ea711a27025ab6c436980d4bf3b23f80/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/0b169ad92b487df0d9f5948ae6d9b87a/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/0b169ad92b487df0d9f5948ae6d9b87a/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/3442859bf8c1c86d3b90ecac4c515887/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/3442859bf8c1c86d3b90ecac4c515887/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/1644a57177f5080bd0ebe57c93f8bb05/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/1644a57177f5080bd0ebe57c93f8bb05/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/0883ca2500de99b83d0d8c6d8f7f0b0a/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/0883ca2500de99b83d0d8c6d8f7f0b0a/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/6abdff1f76489948f3727ae07c1a3e32/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/6abdff1f76489948f3727ae07c1a3e32/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/a6f5d00bc1c7748df6812dac27244aed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/a6f5d00bc1c7748df6812dac27244aed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/1c4285045eeb6748dbe1cff548368457/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/1c4285045eeb6748dbe1cff548368457/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/8ddfb0528cbff2482bde6e062379ee4a/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/8ddfb0528cbff2482bde6e062379ee4a/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/5407ac41ce5829d9ffd3594dabb33a84/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/5407ac41ce5829d9ffd3594dabb33a84/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/a7f60305d24b33454071a8701b5598d3/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/a7f60305d24b33454071a8701b5598d3/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/e62377e07f41ecf590f687abbb6d4708/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/e62377e07f41ecf590f687abbb6d4708/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/543b89191a4fd41dc252443da2333b63/core-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/543b89191a4fd41dc252443da2333b63/core-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/b230448657186719c82bc0a69c35f37e/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/b230448657186719c82bc0a69c35f37e/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/55f03abc6ada577a7987d00706914917/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/55f03abc6ada577a7987d00706914917/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/1f1b5da9bc13c1224c8dcc116f0d3dd4/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/1f1b5da9bc13c1224c8dcc116f0d3dd4/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/47256c47a81fc327161e46217d20a210/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/47256c47a81fc327161e46217d20a210/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/8f2549244647f2c1b1af5d64b1b84eb6/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/8f2549244647f2c1b1af5d64b1b84eb6/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/fbab2ac4cb3ec9ad92dec08c3f011627/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/fbab2ac4cb3ec9ad92dec08c3f011627/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/9764cfb7045f784c7291e3b58f0ac6ce/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/9764cfb7045f784c7291e3b58f0ac6ce/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/6bf24c73f85fb3f3d13d89537bf3fca7/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/6bf24c73f85fb3f3d13d89537bf3fca7/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/b52b6427018570ad73e37e89df418c6a/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/b52b6427018570ad73e37e89df418c6a/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/2abe4c61a93c4c915cb2e47fd5a035b5/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/2abe4c61a93c4c915cb2e47fd5a035b5/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/51c01ae031b1a3283bbf26101894beba/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/51c01ae031b1a3283bbf26101894beba/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/ab0a54e450b5eaaf331e84860dc17075/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/daniel/.gradle/caches/transforms-2/files-2.1/ab0a54e450b5eaaf331e84860dc17075/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/daniel/HBProjects/hb-apv/sample/src/main/AndroidManifest.xml
+INJECTED from /Users/daniel/HBProjects/hb-apv/sample/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/badtaste/Repository/Java/apv/sample/src/main/AndroidManifest.xml
-		ADDED from /home/badtaste/Repository/Java/apv/sample/src/main/AndroidManifest.xml
-		INJECTED from /home/badtaste/Repository/Java/apv/sample/src/main/AndroidManifest.xml
+		INJECTED from /Users/daniel/HBProjects/hb-apv/sample/src/main/AndroidManifest.xml
+		ADDED from /Users/daniel/HBProjects/hb-apv/sample/src/main/AndroidManifest.xml
+		INJECTED from /Users/daniel/HBProjects/hb-apv/sample/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/badtaste/Repository/Java/apv/sample/src/main/AndroidManifest.xml
-		ADDED from /home/badtaste/Repository/Java/apv/sample/src/main/AndroidManifest.xml
-		INJECTED from /home/badtaste/Repository/Java/apv/sample/src/main/AndroidManifest.xml
+		INJECTED from /Users/daniel/HBProjects/hb-apv/sample/src/main/AndroidManifest.xml
+		ADDED from /Users/daniel/HBProjects/hb-apv/sample/src/main/AndroidManifest.xml
+		INJECTED from /Users/daniel/HBProjects/hb-apv/sample/src/main/AndroidManifest.xml

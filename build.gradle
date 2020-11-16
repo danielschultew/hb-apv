@@ -4,7 +4,7 @@ buildscript {
         jcenter()
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:3.5.1'
+        classpath 'com.android.tools.build:gradle:4.0.2'
         classpath 'com.jfrog.bintray.gradle:gradle-bintray-plugin:1.8.4'
         classpath 'com.github.dcendents:android-maven-gradle-plugin:2.1'
     }
@@ -15,32 +15,14 @@ plugins {
     id("maven-publish")
 }
 
-group 'com.github.arnaudelub'
-archivesBaseName = 'apv'
-version '1.5.1'
+group 'com.github.danielschultew'
+archivesBaseName = 'hb-apv'
+version '1.1.0'
 
 allprojects {
     repositories {
         google()
         jcenter()
-    }
-}
-
-publishing {
-    repositories {
-        maven {
-            name = "GitHubPackages"
-            url = uri("https://maven.pkg.github.com/arnaudelub/apv")
-            credentials {
-                username = project.findProperty("gpr.user") ?: System.getenv("USERNAME")
-                password = project.findProperty("gpr.key") ?: System.getenv("PASSWORD")
-            }
-        }
-    }
-    publications {
-        gpr(MavenPublication) {
-            from(components.java)
-        }
     }
 }
 
