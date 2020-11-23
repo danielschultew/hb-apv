@@ -9,7 +9,7 @@ This version contains the dual-page-mode added by arnaudelub and some bugfixes a
 
 Add to _build.gradle_:
 
-`implementation 'com.github.danielschultew:hb-apv:1.2.0'`
+`implementation 'com.github.danielschultew:hb-apv:1.2.1'`
 
 ## ProGuard
 If you are using ProGuard, add following rule to proguard config file:
