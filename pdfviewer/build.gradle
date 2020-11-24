@@ -13,7 +13,7 @@ ext {
     siteUrl = 'https://github.com/danielschultew/apv'
     gitUrl = 'https://github.com/danielschultew/apv.git'
 
-    libraryVersion = '1.2.1'
+    libraryVersion = '1.2.2'
 
     developerId = 'danielschultew'
     developerName = 'Daniel Schultew'
@@ -31,7 +31,7 @@ android {
         minSdkVersion 14
         targetSdkVersion 28
         versionCode 1
-        versionName "1.2.1"
+        versionName "1.2.2"
     }
 }
 

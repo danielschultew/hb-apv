@@ -1673,7 +1673,7 @@ public class PDFView extends RelativeLayout {
     }
 
     void loadPageByOffset() {
-        if (0 == pdfFile.getPagesCount()) {
+        if (pdfFile == null || 0 == pdfFile.getPagesCount()) {
             return;
         }
 
